@@ -138,6 +138,6 @@ The full version is sold under a commercial license via [LemonSqueezy](https://a
 
 ---
 
-**Built by [@Marine_Lucid](https://x.com/Marine_Lucid)** — part of [0toprod](https://0toprod.lemonsqueezy.com), tools for AI builders.
+**Built by [@Marine_Lucid](https://x.com/Marine_Lucid)** — part of [0toprod](https://0toprod.dev), tools for AI builders.
 
 If this saved your app from shipping a vulnerability, star the repo.
